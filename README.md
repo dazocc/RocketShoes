@@ -12,3 +12,4 @@ Project React JS with:
   - react-router-dom
   - styled-components    
   - react-icons
+  - polished
