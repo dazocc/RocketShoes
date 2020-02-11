@@ -10,6 +10,14 @@ Project React JS with:
   - prettier
   - axios
   - react-router-dom
-  - styled-components    
+  - styled-components
   - react-icons
   - polished
+  - redux
+  - redux-saga
+  - reactotron
+  - reactotron-redux
+  - reactotron-redux-saga
+  - immer
+  - react-toastify
+  - history
