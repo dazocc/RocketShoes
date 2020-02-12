@@ -21,3 +21,4 @@ Project React JS with:
   - immer
   - react-toastify
   - history
+  - react-hooks
