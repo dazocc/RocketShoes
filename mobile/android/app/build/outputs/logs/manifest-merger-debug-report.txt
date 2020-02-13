@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] /opt/pessoal/RocketShoes/mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dazo/.gradle/caches/transforms-2/files-2.1/b416c779cc5b5d36c64c191d4d8ccc4c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c086f29ae469d6ace76c4f051e0cc9a7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/9300f0550d902c649afd889127686e7b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/661d3306779c49df02be510d2d94ef18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7d5f29620bdbd4d620eb40c3890c5ecc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/dazo/.gradle/caches/transforms-2/files-2.1/a79d9e43b552980dad26a58283c5d601/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /home/dazo/.gradle/caches/transforms-2/files-2.1/7dd87fe3bd15a1a0140a47273032af2c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/2a30810adfe861170cf669af05640ea8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/b3cc3375b5ec95c41ca8fb3e2e5edfcf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7e7bb5190f16647c3dd8bd9de2bd36ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/27721035923e7d78fc66579b2d31bacd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/1ae7f663cd374fad2c571a88dcd2d117/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/e124811acde3dbd174bc1932d9aed21b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0ddf928ef009e414e287e735d56254b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/bc2d76a2de3c2a1ba4a7ea45b5211a12/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/1c99387677c51887852ca4ca89e521e6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c456e64ffa035e061999a6d3f29ed1d3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a818867ede8ad606537e62f7e201a963/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c32341f2b8286538635819e13286ef63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/84e2baccfd8b4f7fbacd7cd71183b277/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a1cf20149bf7c0e2fc8c7d77c40d477f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/770afb157f3c97c562cd018b0af117e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/cca101c8f26d295047bb068ef4f3905c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/d0e42ddc957b5e8d180d55d1eac0360e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/17b299b1be59e60a222002109149439e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0449dfc2f0669eadd4598113574b311f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0de521e328ea6f1cc69465461b30728f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/42f5971241e7e5b96abaf2c07e9fe82f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/6cb467e1397d29f2685d1d206d0692ea/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7705bde6f002c72d134cb88f97f77051/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ced1b2873806cc29e42d5e83d63cebc/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/956e14dd257a4400fe1ab830d127a81c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/4025996d45344c3b88f316da5f8de6c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/995eeaffc1bc4c1c3f7dc4bc805807f8/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/ce61b98e3c608111dad6c9a72a8b9ff2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/f7a842206c666668e7fb966041e91dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ba8067be52c2158ff70eb4b64eaf2ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/e481a544ebcf463daf43931a33ef2cfa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/90690a4995ed2431c3330e72736241f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a40e074d7b65873ccc127353be58a1f6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/025f7a2cf5c84cc1bb932740e181de89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/8a511864a0c7fa16b6d88e3c3dd1c656/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0e52ddd18defd175b5eecfd48178edb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/177df409c585df22860f848876ece7ba/AndroidManifest.xml:2:1-9:12
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dazo/.gradle/caches/transforms-2/files-2.1/b416c779cc5b5d36c64c191d4d8ccc4c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dazo/.gradle/caches/transforms-2/files-2.1/b416c779cc5b5d36c64c191d4d8ccc4c/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c086f29ae469d6ace76c4f051e0cc9a7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c086f29ae469d6ace76c4f051e0cc9a7/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/bc2d76a2de3c2a1ba4a7ea45b5211a12/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/bc2d76a2de3c2a1ba4a7ea45b5211a12/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ced1b2873806cc29e42d5e83d63cebc/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ced1b2873806cc29e42d5e83d63cebc/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/995eeaffc1bc4c1c3f7dc4bc805807f8/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/995eeaffc1bc4c1c3f7dc4bc805807f8/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ced1b2873806cc29e42d5e83d63cebc/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.mobile.MainActivity
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] /opt/pessoal/RocketShoes/mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /opt/pessoal/RocketShoes/mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /opt/pessoal/RocketShoes/mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dazo/.gradle/caches/transforms-2/files-2.1/b416c779cc5b5d36c64c191d4d8ccc4c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dazo/.gradle/caches/transforms-2/files-2.1/b416c779cc5b5d36c64c191d4d8ccc4c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c086f29ae469d6ace76c4f051e0cc9a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c086f29ae469d6ace76c4f051e0cc9a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/9300f0550d902c649afd889127686e7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/9300f0550d902c649afd889127686e7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/661d3306779c49df02be510d2d94ef18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/661d3306779c49df02be510d2d94ef18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7d5f29620bdbd4d620eb40c3890c5ecc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7d5f29620bdbd4d620eb40c3890c5ecc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/dazo/.gradle/caches/transforms-2/files-2.1/a79d9e43b552980dad26a58283c5d601/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/dazo/.gradle/caches/transforms-2/files-2.1/a79d9e43b552980dad26a58283c5d601/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /home/dazo/.gradle/caches/transforms-2/files-2.1/7dd87fe3bd15a1a0140a47273032af2c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/dazo/.gradle/caches/transforms-2/files-2.1/7dd87fe3bd15a1a0140a47273032af2c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/2a30810adfe861170cf669af05640ea8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/2a30810adfe861170cf669af05640ea8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/b3cc3375b5ec95c41ca8fb3e2e5edfcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/b3cc3375b5ec95c41ca8fb3e2e5edfcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7e7bb5190f16647c3dd8bd9de2bd36ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7e7bb5190f16647c3dd8bd9de2bd36ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/27721035923e7d78fc66579b2d31bacd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/27721035923e7d78fc66579b2d31bacd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/1ae7f663cd374fad2c571a88dcd2d117/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/1ae7f663cd374fad2c571a88dcd2d117/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/e124811acde3dbd174bc1932d9aed21b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/e124811acde3dbd174bc1932d9aed21b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0ddf928ef009e414e287e735d56254b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0ddf928ef009e414e287e735d56254b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/bc2d76a2de3c2a1ba4a7ea45b5211a12/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/bc2d76a2de3c2a1ba4a7ea45b5211a12/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/1c99387677c51887852ca4ca89e521e6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/1c99387677c51887852ca4ca89e521e6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c456e64ffa035e061999a6d3f29ed1d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c456e64ffa035e061999a6d3f29ed1d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a818867ede8ad606537e62f7e201a963/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a818867ede8ad606537e62f7e201a963/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c32341f2b8286538635819e13286ef63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/c32341f2b8286538635819e13286ef63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/84e2baccfd8b4f7fbacd7cd71183b277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/84e2baccfd8b4f7fbacd7cd71183b277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a1cf20149bf7c0e2fc8c7d77c40d477f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a1cf20149bf7c0e2fc8c7d77c40d477f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/770afb157f3c97c562cd018b0af117e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/770afb157f3c97c562cd018b0af117e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/cca101c8f26d295047bb068ef4f3905c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/cca101c8f26d295047bb068ef4f3905c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/d0e42ddc957b5e8d180d55d1eac0360e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/d0e42ddc957b5e8d180d55d1eac0360e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/17b299b1be59e60a222002109149439e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/17b299b1be59e60a222002109149439e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0449dfc2f0669eadd4598113574b311f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0449dfc2f0669eadd4598113574b311f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0de521e328ea6f1cc69465461b30728f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0de521e328ea6f1cc69465461b30728f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/42f5971241e7e5b96abaf2c07e9fe82f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/42f5971241e7e5b96abaf2c07e9fe82f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/6cb467e1397d29f2685d1d206d0692ea/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/6cb467e1397d29f2685d1d206d0692ea/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7705bde6f002c72d134cb88f97f77051/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/7705bde6f002c72d134cb88f97f77051/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ced1b2873806cc29e42d5e83d63cebc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ced1b2873806cc29e42d5e83d63cebc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/956e14dd257a4400fe1ab830d127a81c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/956e14dd257a4400fe1ab830d127a81c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/4025996d45344c3b88f316da5f8de6c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/4025996d45344c3b88f316da5f8de6c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/995eeaffc1bc4c1c3f7dc4bc805807f8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/995eeaffc1bc4c1c3f7dc4bc805807f8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/ce61b98e3c608111dad6c9a72a8b9ff2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/ce61b98e3c608111dad6c9a72a8b9ff2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/f7a842206c666668e7fb966041e91dc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/f7a842206c666668e7fb966041e91dc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ba8067be52c2158ff70eb4b64eaf2ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/3ba8067be52c2158ff70eb4b64eaf2ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/e481a544ebcf463daf43931a33ef2cfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/e481a544ebcf463daf43931a33ef2cfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/90690a4995ed2431c3330e72736241f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/90690a4995ed2431c3330e72736241f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a40e074d7b65873ccc127353be58a1f6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/a40e074d7b65873ccc127353be58a1f6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/025f7a2cf5c84cc1bb932740e181de89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/025f7a2cf5c84cc1bb932740e181de89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/8a511864a0c7fa16b6d88e3c3dd1c656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/8a511864a0c7fa16b6d88e3c3dd1c656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0e52ddd18defd175b5eecfd48178edb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/0e52ddd18defd175b5eecfd48178edb8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/177df409c585df22860f848876ece7ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/dazo/.gradle/caches/transforms-2/files-2.1/177df409c585df22860f848876ece7ba/AndroidManifest.xml:5:5-7:41
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml
+INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /opt/pessoal/RocketShoes/mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
