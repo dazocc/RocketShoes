@@ -1,42 +1,83 @@
+/* eslint-disable react/prop-types */
 import React, { useState, useEffect } from 'react';
-// import { useDispatch, useSelector } from 'react-redux';
+import { FlatList } from 'react-native';
+
+import { useSelector, useDispatch } from 'react-redux';
+import Icon from 'react-native-vector-icons/MaterialIcons';
+import * as CartActions from '../../store/module/cart/actions';
 
 import api from '../../services/api';
 import { formatPrice } from '../../util/format';
 
-import { Container, Form, List, Product, ImageProduct } from './styles';
+import {
+  Container,
+  Product,
+  ProductImage,
+  ProductTitle,
+  ProductPrice,
+  AddButton,
+  ProductAmount,
+  ProductAmountText,
+  AddButtonText,
+} from './styles';
 
 export default function Home() {
   const [products, setProducts] = useState([]);
 
+  const amount = useSelector(state =>
+    state.cart.reduce((qtd, product) => {
+      qtd[product.id] = product.amount;
+      return qtd;
+    }, {})
+  );
+
+  const dispatch = useDispatch();
+
   useEffect(() => {
-    async function loadProducts() {
-      const response = await api.get('products');
+    async function getProducts() {
+      const response = await api.get('/products');
 
       const data = response.data.map(product => ({
         ...product,
-        priceFormat: formatPrice(product.price),
+        priceFormatted: formatPrice(product.price),
       }));
 
       setProducts(data);
     }
 
-    loadProducts();
+    getProducts();
   }, []);
+
+  function handleAddProduct(id) {
+    dispatch(CartActions.addToCartRequest(id));
+  }
+
+  function renderProduct({ item }) {
+    return (
+      <Product key={item.id}>
+        <ProductImage source={{ uri: item.image }} />
+        <ProductTitle>{item.title}</ProductTitle>
+        <ProductPrice>{formatPrice(item.price)}</ProductPrice>
+        <AddButton onPress={() => handleAddProduct(item.id)}>
+          <ProductAmount>
+            <Icon name="add-shopping-cart" color="#FFF" size={20} />
+            <ProductAmountText>{amount[item.id] || 0}</ProductAmountText>
+          </ProductAmount>
+          <AddButtonText>ADICIONAR</AddButtonText>
+        </AddButton>
+      </Product>
+    );
+  }
 
   return (
     <Container>
-      <Form>
-        <List
-          data={products}
-          keyExtractor={item => String(item.id)}
-          renderItem={({ item }) => (
-            <Product key={item.id}>
-              <ImageProduct source={{ uri: item.image }} />
-            </Product>
-          )}
-        />
-      </Form>
+      <FlatList
+        horizontal
+        data={products}
+        extraData={amount}
+        keyExtractor={item => String(item.id)}
+        renderItem={renderProduct}
+      />
     </Container>
   );
 }

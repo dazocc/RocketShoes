@@ -1,19 +1,20 @@
 import styled from 'styled-components/native';
 import colors from '../../styles/colors';
 
-import logo from '../../assets/images/logo.svg';
+import logo from '../../assets/logo.png';
 
 export const Wrapper = styled.SafeAreaView`
   flex: 0;
   background: ${colors.dark};
   flex-direction: row;
+  align-content: space-between;
 `;
 
 export const Container = styled.View`
   flex-direction: row;
   flex: 1;
   justify-content: space-between;
-  padding: 20px;
+  padding: 15px;
 `;
 
 export const Logo = styled.Image.attrs({
